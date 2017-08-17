@@ -1,1 +1,9 @@
+git branch
+git checkout
+
+git log
+
 git shortlog
+git shortlog -3
+
+git remote -v
