@@ -2,4 +2,4 @@
 Aprendendo a usar Git e Github
 
 
-Link para o [Google] (http://www.google.com)
+Link para o [Google] (http://google.com)
